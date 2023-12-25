@@ -98,11 +98,11 @@
 
 }
 #buttons{
-    
+    width: 120%;
     display: flex;
     justify-content: space-between;
    gap: 20px;
-    
+    margin-left: 60%;
     padding: 50px;
 }
 #buttons a {
@@ -267,11 +267,11 @@ iframe{
     transition: 1s;
 }
 #buttons3{
-    
+    width: 120%;
     display: flex;
     justify-content: space-between;
    gap: 20px;
- 
+    margin-left: 60%;
     padding: 50px;
     margin-bottom: 20%;
 }
